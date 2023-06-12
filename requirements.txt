@@ -1,0 +1,10 @@
+numpy
+stats
+pandas
+numpy
+matplotlib
+LinearRegression
+shapiro
+stats
+NormalDist
+ztest
